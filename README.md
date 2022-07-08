@@ -22,7 +22,7 @@ Installation
 
 Power on The machine and Boot Arch
 
- 
+![Screenshot](images/image12.png)
  
 
 
