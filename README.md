@@ -24,6 +24,7 @@ Power on The machine and Boot Arch
 
 ![Screenshot](images/image12.png)
  
+![Screenshot](images/image10.png)
 
 
 Temporal Keyboard configuration
@@ -47,14 +48,17 @@ Partition configuration
 
 #cfdisk
 
+![Screenshot](images/image4.png)
  
 
 select New and choose the first partition’s size , do it as much as partitions you want
-if u dont know anything about partition types install ubuntu or debian, get more experience and try arch again
+·if u dont know anything about partition types install ubuntu or debian, get more experience and try arch again
  
+![Screenshot](images/image2.png)
+ 
+![Screenshot](images/image14.png)
 
- 
- 
+![Screenshot](images/image11.png)
 
 set swap :
 when u have reach the limit space you'll see this screen
@@ -63,7 +67,7 @@ you must to select Linux Swap / Solaris (82)
 
  Linux Swap / Solaris (82)
 
-
+![Screenshot](images/image13.png)
 
  
 Next you have to select write,  say yes and quit 
@@ -72,7 +76,7 @@ Next you have to select write,  say yes and quit
 
  # lsblk
 
- 
+ ![Screenshot](images/image5.png)
 
 
 Format partitions 
@@ -96,7 +100,7 @@ Mount partitions
 
 This is the result :
  
-
+![Screenshot](images/image6.png)
 
 basic Installation :
 
@@ -140,7 +144,7 @@ with nano you can see the line number :
 
  RightCtrl + 3 and RightAlt + 3 
 
- 
+![Screenshot](images/image7.png) 
 
 
 set location
@@ -150,7 +154,8 @@ set location
 
 uncomment the lines
  
- 
+ ![Screenshot](images/image17.png)
+ ![Screenshot](images/image8.png)
 
 
  # locale-gen
